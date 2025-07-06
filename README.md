@@ -1,9 +1,6 @@
 
 
-![Github Forks](https://img.shields.io/github/forks/senli1073/senli1073.github.io?style=flat)
-![Github Stars](https://img.shields.io/github/stars/senli1073/senli1073.github.io?style=flat)
-![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
-![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
+[![BaiCai625](https://img.shields.io/badge/BaiCai625-Github-blue?logo=github)](https://github.com/BaiCai625)
 
 # A simple Github Pages template for personal academic websites.
 
@@ -66,4 +63,4 @@ Fire up a browser and go to `https://<username>.github.io`
 
 ## License
 
-Copyright Sen Li, 2023. Licensed under an MIT license. You can copy and mess with this template.
+Copyright Xianghui Li, 2025. Adapted from theme created by Sen Li. Licensed under an MIT license. You can copy and mess with this template.
