@@ -1,17 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![BaiCai625](https://img.shields.io/badge/BaiCai625-Github-blue?logo=github)](https://github.com/BaiCai625)
+[![Leo](https://img.shields.io/badge/Leo-%23faf5f5?logo=zhihu)](https://www.zhihu.com/people/leo-17-85-70)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+[![BaiCai625](https://img.shields.io/badge/%E7%99%BD%E8%8F%9C-%23FFFFFF?style=social&logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/60d9df450000000020026e10?m_source=itab)
 
-#### Contact
+He is currently a senior undergraduate in the School of Integrated Circuit at Anhui University.
 
-Email: senli[at]fas.harvard.edu
+#### Contact me
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Email: XianghuiLi0526@163.com
+
+#### Education Background
+B.E., Integrated Circuit Design and Integrated System, Anhui University, China, 2022—2026.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Integrated Circuit Design, Deep Learning, Artificial Intelligence, Nanotechnology, Flexible Electronics.
 

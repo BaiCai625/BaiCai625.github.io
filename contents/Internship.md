@@ -1,0 +1,4 @@
+- 2023-2025 FEIS Lab (Flexible Electronics and Intelligent Sensing Laboratory)
+    - Supervisor: [Prof. Xiaohui Guo](https://ic.ahu.edu.cn/2021/1011/c19170a271110/pagem.htm)
+- 2025 Shanghai Jiao Tong University
+    - Supervisor: [Prof. Leilai Shao](https://me.sjtu.edu.cn/teacher_directory1/shaoleilai.html)

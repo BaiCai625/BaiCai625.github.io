@@ -1,16 +1,12 @@
 #### Submitted
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>Xianghui Li</strong>, Jiayi Zhang, Zihan Lin, Junhao Li, Xinchen Wang, Weiqiang Hong*, Zhaobin Li, Ziyuan Zhou, Xiaoying He, Rui Zhang , Jianhong Hao, Yupeng Shao , Feifei Deng*, Yunong Zhao*, Xiaohui Guo. Dual-Functional Capacitive Flexible Sensor with Bionic Microstructures and Magnetic Nanocomposites for Pressure Sensing and Magnetic Ternary Encoding[J]. ***ACS Applied Materials & Interfaces***. <strong>(Under Review)</strong> 
+- Jiayi Zhang, Feifei Deng*, <strong>Xianghui Li</strong>, Yuezhong Xiong, Yunong Zhao, Xiaohui Guo. A Fully Reversible Feynman Gate with Magic Block for Quantum-dot Cellular Automata Circuits. ***2025 International Conference on Integrated Circuits and Microsystems(ICICM). IEEE.*** **(accepted)**
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Weiqiang Hong, Xiaohui Guo*,  <strong>Xianghui Li</strong>, Tianxu Zhang, Xiaowen Zhu, Jianwei He, Renkai Zhang, Shishun Yang, Yupeng Shao, Yuanyuan Fang, Zhihao Yin, Xunxun Sun, Jiangtao Hu, Qi Hong, Yunong Zhao*. Fishbone and nettle fiber inspired stretchable strain sensor with high sensitivity and wide sensing range for wearable electronics[J]. <strong> *Chemical Engineering Journal*. </strong>. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1385894724037689)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Xiaohui Guo, Chengchao Jin, <strong>Xianghui Li</strong>, Anqi Zhang, Weiqiang Hong, Zihao Yan, Xinyi Zhang, Shuting Yu, Shuhang Yu, Huishan Zhang, Xu Zhu, Heng Zong, Yan Du, Haochen Lu, Yunong Zhao*, Yaohua Xu. Electromechanical performance of flexible sensor based on 3D printed biomimetic all-PDMS-coated multistage structure: toward kinesiology monitoring and human-machine interaction[J].<strong> *Sensors and Actuators: A. Physical.* </strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0924424724001869)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- Honglin Chen, Weiqiang Hong*, Qiang Long, **Xianghui Li**, Ming Hou, Xiaowen Zhu, Zihan Lin, Xinyue Wang, Hao Guo, Yunong Zhao*, Qi Hong, Wenrui Xu, Xiangchen Zhao, Xiaohui Guo*. High-Performance Flexible Pressure Sensor Based on Biomimetic Grasshopper Leg Structure for Wearable Devices and Human–Machine Interaction[J]. ***IEEE Transactions on Electron Devices*** [[Paper]](https://ieeexplore.ieee.org/document/10852558)
