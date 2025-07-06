@@ -1,11 +1,21 @@
-
-
 [![BaiCai625](https://img.shields.io/badge/BaiCai625-Github-blue?logo=github)](https://github.com/BaiCai625)
 
-# A simple Github Pages template for personal academic websites.
+# 个人主页（BaiCai625.github.io）
+
+本项目是我的个人学术与职业主页，基于 GitHub Pages 搭建，支持响应式设计和多终端浏览。主页内容涵盖了我的基本信息、学术成果、获奖情况、任职经历、专利等，旨在为学术交流、职业展示和个人品牌建设提供一个简洁美观的平台。
+
+## 主要特色
+- **简洁现代的 UI**：采用苹果风格的毛玻璃卡片设计，整体风格清新、专业。
+- **内容结构清晰**：分为首页、论文发表、获奖、任职经历、专利等多个板块，信息一目了然。
+- **自动化内容加载**：各板块内容通过 Markdown 文件维护，便于更新和管理。
+- **自适应布局**：兼容 PC 和移动端，浏览体验一致。
+
+欢迎访问我的主页，了解更多个人信息与学术成果。
+
+---
 
 ## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
+[![Screenshot of the Website](https://github.com/BaiCai625/BaiCai625.github.io/blob/main/screenshot_full.png)](https://github.com/BaiCai625)
 
 
 ## Introduction
