@@ -1,9 +1,10 @@
 
 
-[![BaiCai625](https://img.shields.io/badge/BaiCai625-Github-blue?logo=github)](https://github.com/BaiCai625)
-[![Leo](https://img.shields.io/badge/Leo-%23faf5f5?logo=zhihu)](https://www.zhihu.com/people/leo-17-85-70)
+[![Leo](https://img.shields.io/badge/Leo-%23faf5f5?logo=zhihu)](https://www.zhihu.com/people/leo-17-85-70) <br>
 
-[![BaiCai625](https://img.shields.io/badge/%E7%99%BD%E8%8F%9C-%23FFFFFF?style=social&logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/60d9df450000000020026e10?m_source=itab)
+[![BaiCai625](https://img.shields.io/badge/%E7%99%BD%E8%8F%9C-%23FFFFFF?style=social&logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/60d9df450000000020026e10?m_source=itab)<br>
+
+[![BaiCai625](https://img.shields.io/badge/BaiCai625-Github-blue?logo=github)](https://github.com/BaiCai625)
 
 He is currently a senior undergraduate in the School of Integrated Circuit at Anhui University.
 

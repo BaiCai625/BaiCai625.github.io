@@ -125,8 +125,8 @@ section:not(.top-section) {
     transition: box-shadow 0.3s cubic-bezier(.4,2,.6,1), transform 0.3s cubic-bezier(.4,2,.6,1);
 }
 section:not(.top-section):hover {
-    box-shadow: 0 16px 48px 0 rgba(31, 38, 135, 0.28);
-    transform: translateY(-4px) scale(1.01);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.18);
+    transform: none;
 }
 
 body {
@@ -196,8 +196,8 @@ section header h2, .navbar-brand {
     z-index: 2;
 }
 #avatar img:hover {
-    box-shadow: 0 16px 48px 0 rgba(31, 38, 135, 0.28);
-    transform: scale(1.06) rotate(-2deg);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.18);
+    transform: none;
 }
 
 /* Apple-style footer */
