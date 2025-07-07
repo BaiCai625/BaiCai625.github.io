@@ -144,6 +144,14 @@ section:not(.top-section):hover {
 
 body {
     background: linear-gradient(120deg, #e0e5ec 0%, #f5f6fa 100%) !important;
+    font-family: Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif !important;
+}
+
+section .main-body {
+    font-family: Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif !important;
+    font-size: 1.3rem;
+    font-weight: 200;
+    line-height: 2.4rem;
 }
 
 /* Apple-style glassy nav bar */
