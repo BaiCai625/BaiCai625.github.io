@@ -154,6 +154,12 @@ section .main-body {
     line-height: 2.4rem;
 }
 
+section .main-body strong,
+section .main-body b {
+    font-weight: 700 !important;
+    color: #181c24;
+}
+
 /* Apple-style glassy nav bar */
 .header, #mainNav {
     background: rgba(20, 28, 48, 0.92) !important;
